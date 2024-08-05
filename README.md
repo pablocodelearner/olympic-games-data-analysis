@@ -1,7 +1,4 @@
-# Writing the README content into a .md file for GitHub upload
-
-readme_content = """
-# Olympic Medal Analysis
+# Gold, silver and bronze. The Olympic Games through Data.
 
 ### Project Overview
 
@@ -103,12 +100,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you have any questions or suggestions, feel free to reach out:
 
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-"""
-
-# Save the content to a README.md file
-with open('/mnt/data/README.md', 'w') as file:
-    file.write(readme_content)
-
-"/mnt/data/README.md"
+- Email: [pablosound@protonmail.com](mailto:pablosound@protonmail.com)
+- LinkedIn: [https://www.linkedin.com/in/pablo-ojeda-domenech/](https://www.linkedin.com/in/pablo-ojeda-domenech/)
